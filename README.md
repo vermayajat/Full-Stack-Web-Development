@@ -1,0 +1,1 @@
+This is a static, desktop-oriented website for a fictional art gallery called "The Modern Frame", built using only HTML and CSS. The project demonstrates clean structuring, consistent styling, and proper use of the box model—all without any JavaScript.
